@@ -1,0 +1,5 @@
+name: DisableItem
+version: ${project.version}
+main: org.oreoprojekt.disableitem.DIMain
+api-version: 1.16
+description: 엔더 상자 조합/사용을 금지한다. 다른 아이템 추가는 언젠가 할거임
